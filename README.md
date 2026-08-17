@@ -25,7 +25,7 @@ Clone it. Run it. Learn from it. Apply it to your code.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourname/java-clean-code.git
+git clone https://github.com/muntakimislam/java-clean-code.git
 cd java-clean-code
 
 # Navigate to a pattern
@@ -327,7 +327,7 @@ This repository teaches you to:
 
 ### 1. Clone This Repository
 ```bash
-git clone https://github.com/yourname/java-clean-code.git
+git clone https://github.com/muntakimislam/java-clean-code.git
 cd java-clean-code
 ```
 
@@ -440,8 +440,8 @@ See [LICENSE](./LICENSE) for details.
 ## 📧 Connect
 
 - **Medium:** [@m-i-idrak](https://medium.com/@m-i-idrak)
-- **GitHub:** [yourname](https://github.com/yourname)
-- **LinkedIn:** [Your Profile](https://linkedin.com/in/yourname)
+- **GitHub:** [Muntakim Islam](https://github.com/muntakimislam)
+- **LinkedIn:** [Your Profile](https://linkedin.com/in/m-i-idrak)
 
 ---
 
