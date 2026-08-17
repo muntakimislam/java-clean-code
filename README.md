@@ -441,7 +441,7 @@ See [LICENSE](./LICENSE) for details.
 
 - **Medium:** [@m-i-idrak](https://medium.com/@m-i-idrak)
 - **GitHub:** [Muntakim Islam](https://github.com/muntakimislam)
-- **LinkedIn:** [Your Profile](https://linkedin.com/in/m-i-idrak)
+- **LinkedIn:** [Muntakim Islam](https://linkedin.com/in/m-i-idrak)
 
 ---
 
