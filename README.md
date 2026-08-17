@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Java 11+](https://img.shields.io/badge/Java-11%2B-blue.svg)](https://www.java.com/)
-[![GitHub stars](https://img.shields.io/github/stars/muntakimislam/java-clean-code?style=social)](https://github.com/yourname/java-clean-code)
+[![GitHub stars](https://img.shields.io/github/stars/muntakimislam/java-clean-code?style=social)](https://github.com/muntakimislam/java-clean-code)
 
 > Master clean code principles and design patterns through practical, runnable examples. No frameworks. No complexity. Just clean Java.
 
